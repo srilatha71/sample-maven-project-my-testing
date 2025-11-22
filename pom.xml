@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
-    <artifactId>sample-maven-app</artifactId>
+    <artifactId>sample-maven-project-my-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
